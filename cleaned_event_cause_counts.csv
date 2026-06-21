@@ -1,0 +1,17 @@
+event_cause,count
+vehicle_breakdown,4896
+others,638
+pot_holes,537
+construction,480
+water_logging,458
+accident,365
+tree_fall,284
+road_conditions,170
+congestion,136
+public_event,84
+procession,72
+vip_movement,20
+protest,15
+debris,13
+test_demo,3
+fog_low_visibility,2
